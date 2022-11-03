@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @GadgetVision
-- 👀 I’m interested in UI/UX Designing and Web Development
-- 🌱 I’m currently learning Frontend Languages
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there,My name is Tushar Gupta
 
-<!---
-GadgetVision/GadgetVision is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a UI/UX Designer
+
+
+Current Learning
+
+1.Art of Typography
+2.Adobe after effects
+3.Adobe Premiere Pro
+
+
+Skills
+
+1.UI/UX Designing
+2.Communication
+3.Video Editing
+
+
+Projects
+
+1.Currently working on the probation task
+
+the name of app is Musify and I am working on the animation part
+
+
+Hobbies
+
+1.I like to do Competitive Programming
+2.I like to play Cricket
+3.I love playing RPG games
+
